@@ -1,7 +1,5 @@
 <template>
-  <router-view />
+  <div>login</div>
 </template>
 
 <script setup></script>
-
-<style lang="scss"></style>
